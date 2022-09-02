@@ -34,11 +34,32 @@
 ## Syllabus
 - First Quarter
     - Introduction to programming
+        - Class Presentation
+        - What to expect
+        - Syllabus
+        - What is a transistor? History? Why is the greatest invention of the last century?
+        - Who is Jhon Bool? And why does HE matter?
+        - Linux Installation
+        - Basic Bash
+        - Git Basics
+        - Critical Thinking
     - Programming 101
+        - 10 minutes code wars
+        - Variables
+        - Cycles
+        - Scopes
+        - Conditionals
+        - Basic HTML
+        - Basic CSS
     - Programming 102
-    -  
+        - Intro web programming
+        - HTTP/IP
+        - API
+        - MVC
+        - Programacion Orientada a Objetos
 - Second Quarter (Breakout groups)
     - ### Backend
-        - 
+        - Ruby 101
+        - Rails 101 
     - ### Frontend
         -
