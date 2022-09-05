@@ -33,12 +33,12 @@
 
 ## Syllabus
 - First Quarter
-    - Introduction to programming
+    - [Introduction to programming](./101.md)
         - Class Presentation
         - What to expect
         - Syllabus
         - What is a transistor? History? Why is the greatest invention of the last century?
-        - Who is Jhon Bool? And why does HE matter?
+        - Who is George Bool? And why does HE matter?
         - Linux Installation
         - Basic Bash
         - Git Basics
