@@ -1,0 +1,5 @@
+Dionicio Villegas,
+
+Me comprometo con el resto de los pledges a tomar en su totalidad mi curso básico completo de programación.
+...
+Lo firmo con mi commit
