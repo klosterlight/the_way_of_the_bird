@@ -1,0 +1,4 @@
+Yo Luis Rayas,
+Me comprometo a completar en su totalidad el curso básico de programación.
+Lo firmo con mi commit
+
