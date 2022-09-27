@@ -17,10 +17,10 @@ class Queue {
   peek() {
     return this.elements[this.head];
   }
-  get length() {
+  length() {
     return this.tail - this.head;
   }
-  get isEmpty() {
+  isEmpty() {
     return this.length === 0;
   }
 }
