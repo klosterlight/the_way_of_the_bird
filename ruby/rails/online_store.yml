@@ -1,0 +1,45 @@
+Entities
+User
+Customer
+Supplier
+Address
+Label
+ProductVariantCatalog
+ProductCatalog
+ProductVariant
+Order
+
+Feature: The user can manage the labels
+  Labels are used to categorizing the different products that are offered in the store
+  Labels are managed by the store administrador
+  Labels can be created when adding a new label on the products
+  Allow the basic CRUD operations on labels
+  Labels must be unique
+
+Feature: The user can manage the labels on a product
+  A product can have at most 3 labels
+  A product cannot have more the one of the same label
+  Removing a label from the product does not remove the label
+  A user could create a new label when creating a new product
+
+Feature: The user can manage the product_variants catalog
+
+Feature: A user can manage the product_variants of a product
+  A product_variant has a unique SKU
+  Each product
+
+Feature: A user can manage the product_catalogs
+
+Feature: A user can get the featured product_variants
+
+Feature: A user can update the shopping cart
+  The products must exist in the shopping cart
+  A shopping cart will be persisted for 1 day
+  The user adds product_variants to the shopping cart, products are for grouping together product_variants
+
+Feature: A user can create an order
+  When the user makes a checkout an order is created
+  The order can only be created if the payment was succesful
+
+Feature: A user can see all his/her orders
+  It should include all the detail of the products that where ordered
